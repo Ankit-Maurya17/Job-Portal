@@ -4,6 +4,17 @@ Job-Portal
 
 A dynamic full-stack web application that connects job seekers with employers efficiently. Built with React.js, Node.js, Express, and MongoDB.
 
+Image 
+![home 1](https://github.com/user-attachments/assets/58f56fc3-5651-4376-8868-b036a6c9b14c)
+![home features](https://github.com/user-attachments/assets/f6c84e32-ff11-4623-8d2c-05a5e179b952)
+![process](https://github.com/user-attachments/assets/d9c1b856-1cf8-41e3-82be-f869f95b42e8)
+![signup](https://github.com/user-attachments/assets/760c7e47-3ecf-433b-b37f-6511346ede3d)
+![login page](https://github.com/user-attachments/assets/36273d17-9159-488b-b1c0-a63998e81d83)
+![employee dashoard](https://github.com/user-attachments/assets/e2bdd793-1334-4305-aa87-9e5927ccdfa3)
+![job dashboard](https://github.com/user-attachments/assets/f2471595-c5c3-4794-ba3b-425a46c82a0a)
+![job seeker dashboard](https://github.com/user-attachments/assets/cc132eb1-2685-4901-9944-70dbe043ee7a)
+
+
 ## 🚀 Features
 
 ### For Job Seekers
@@ -329,6 +340,16 @@ For issues or questions, please create an issue in the project repository.
 - Job recommendations based on profile
 - Social media integration
 - Payment integration for premium features
+
+👨‍💻 Author
+Ankit Maurya
+
+GitHub: https://github.com/Ankit-Maurya17/
+
+LinkedIn: https://www.linkedin.com/in/ankit-maurya-467b61342/
+
+📬 Contact
+For any questions or feedback, please open an issue on the GitHub repository.
 
 ---
 
